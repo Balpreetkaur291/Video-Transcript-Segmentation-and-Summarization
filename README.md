@@ -1,1 +1,0 @@
-# Video-Transcript-Segmentation-and-Summarization
